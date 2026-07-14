@@ -100,13 +100,13 @@ Custo Total × (1 + Margem de Lucro)
 Clone o projeto
 
 ```bash
-git clone https://github.com/BrunoAbr/calculadora3d.git
+git clone https://github.com/BrunoAbr/priting-cost.git
 ```
 
 Entre na pasta
 
 ```bash
-cd calculadora3d
+cd priting-cost
 ```
 
 Execute
