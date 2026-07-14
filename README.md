@@ -100,7 +100,7 @@ Custo Total × (1 + Margem de Lucro)
 Clone o projeto
 
 ```bash
-git clone https://github.com/BrunoAbr/priting-cost.git
+git clone https://github.com/BrunoAbr/printing-cost.git
 ```
 
 Entre na pasta
