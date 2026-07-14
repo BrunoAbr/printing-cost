@@ -8,9 +8,9 @@ O objetivo é facilitar o cálculo do custo de produção considerando consumo d
 
 ## 📷 Interface
 
-```
+
 ![Tela APP](assets/screenshot2.png)
-```
+
 
 ---
 
